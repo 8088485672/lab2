@@ -5,4 +5,5 @@ int main(){
 	int sum;
 	sum = a + b ;
 	printf("sum");
+	printf("Hello world");
 }
